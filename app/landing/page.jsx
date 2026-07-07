@@ -4,7 +4,7 @@ import Testimonials from "@/app/components/ui/landing/Testimonials";
 import Footer from "@/app/components/ui/landing/Footer";
 
 export const metadata = {
-  title: "Landing Page",
+  title: "Dashboard | SaaS Product Page",
   description: "A responsive SaaS-style landing page built with Next.js and Tailwind CSS.",
 };
 
