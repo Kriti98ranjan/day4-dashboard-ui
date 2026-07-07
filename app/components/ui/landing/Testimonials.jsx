@@ -3,8 +3,8 @@ import Badge from "@/app/components/ui/Badge";
 
 const testimonials = [
   {
-    initials: "PS",
-    name: "Priya Sharma",
+    initials: "KP",
+    name: "Kuldeep Sharma",
     quote: "Cut our reporting time in half. Super simple to use.",
   },
   {
@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     initials: "SK",
-    name: "Sara Khan",
+    name: "Sumit Kumar",
     quote: "Best internal tool our team has adopted.",
   },
 ];
@@ -22,7 +22,7 @@ const testimonials = [
 export default function Testimonials() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 mb-5">
+      <div className="max-w-6xl mx-auto px-4 mb-5 mt-3">
         <h2 className="text-2xl md:text-3xl font-bold text-center text-white">
           Testimonials
         </h2>
