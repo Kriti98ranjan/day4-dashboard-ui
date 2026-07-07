@@ -21,7 +21,7 @@ const features = [
 
 export default function Features() {
   return (
-    <section className="bg-gray-50 py-10">
+    <section className="bg-gray-100 py-10">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900">
           Features
