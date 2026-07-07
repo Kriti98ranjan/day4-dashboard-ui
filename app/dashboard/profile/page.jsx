@@ -5,9 +5,6 @@ import Card from "@/app/components/ui/Card";
 import Badge from "@/app/components/ui/Badge";
 import Button from "@/app/components/ui/Button";
 
-// NOTE: "use client" hone ki wajah se yahan `export const metadata`
-// nahi likh sakte — SEO title/description dashboard/layout.jsx se
-// already apply ho raha hai is poore route ke liye.
 
 export default function ProfilePage() {
   return (

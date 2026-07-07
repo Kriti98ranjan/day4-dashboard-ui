@@ -3,7 +3,6 @@ import Features from "@/app/components/ui/landing/Features";
 import Testimonials from "@/app/components/ui/landing/Testimonials";
 import Footer from "@/app/components/ui/landing/Footer";
 
-// DAY 4 — SEO tags, isi route ke liye
 export const metadata = {
   title: "Landing Page",
   description: "A responsive SaaS-style landing page built with Next.js and Tailwind CSS.",
