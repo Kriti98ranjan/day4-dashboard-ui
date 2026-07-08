@@ -29,11 +29,6 @@ export default function Footer() {
             links={["Privacy", "Terms"]}
           />
         </div>
-
-        <p className="text-center text-sm border-t border-gray-700 mt-8 pt-4">
-          © {new Date().getFullYear()} Dashboard App
-        </p>
-
       </div>
     </footer>
   );
