@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="flex-1">
         <h1 className="text-3xl md:text-5xl font-bold">
           Manage your team's work,
-          <strong className="text-blue-500"> without the chaos</strong>
+          <strong className="text-blue-500">with easy</strong>
         </h1>
 
         <p className="mt-4 text-gray-600">
